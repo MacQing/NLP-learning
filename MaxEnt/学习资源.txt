@@ -1,0 +1,5 @@
+中文分词语料库：http://sighan.cs.uchicago.edu/
+
+最大熵模型分词-博客：
+	中文分词模型之最大熵模型：http://blog.51cto.com/sbp810050504/1605501
+	用最大熵模型进行字标注中文分词（Python实现）：https://blog.csdn.net/u010189459/article/details/38458559
